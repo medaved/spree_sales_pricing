@@ -6,7 +6,7 @@ Introduction goes here.
 
 1. Add this extension to your Gemfile with this line:
   ```ruby
-  gem 'spree_sales_pricing', github: '[your-github-handle]/spree_sales_pricing'
+  gem 'spree_sales_pricing', github: 'medaved/spree_sales_pricing'
   ```
 
 2. Install the gem using Bundler:
